@@ -1,3 +1,3 @@
 # Invasion percolation 
 
-![invasion cluster](/images/logo.png)
+![invasion cluster](/invasionlattice.png)
